@@ -1,0 +1,38 @@
+#center-sheet {
+               
+                width: 70%;
+                margin: 0px auto;
+                background-color: lawngreen;
+                padding-left: 1%;
+                padding-right: 1%;
+                padding-bottom: 1%;
+            }
+            #center-sheet p {
+               
+                color:darkred;
+                
+                font-style: oblique;
+                text-align: center;
+            }
+            #fielding {
+                background-color:darksalmon;
+                color:forestgreen;
+                border-collapse: collapse;
+                width: 100%;
+                border: 3px solid Grey;
+            }
+            #fielding> .cell {
+                border: 3px solid Grey;
+            }
+            .Name-sheet {
+                
+                color:aqua;
+            }
+            .country-sheet {
+                
+                color:black;
+            }
+            .wicket-sheet {
+                
+                color:darkslateblue;
+            }
